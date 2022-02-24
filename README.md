@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={haji44}&layout=compact&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haji44&layout=compact&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=haji44&count_private=true&theme=onedark&show_icons=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haji44&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **haji44/haji44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
